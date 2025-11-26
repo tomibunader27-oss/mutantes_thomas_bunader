@@ -19,10 +19,10 @@ API REST desarrollada en Java con Spring Boot para detectar si un humano es muta
 
 La API se encuentra desplegada y accesible públicamente en **Render**.
 
-**URL Base:** [https://mutantes-21r4.onrender.com](https://mutantes-21r4.onrender.com)
+**URL Base:** [ https://mutantes-thomas-bunader.onrender.com)
 
-- **Swagger UI (Documentación):** [https://mutantes-21r4.onrender.com/swagger-ui.html](https://mutantes-21r4.onrender.com/swagger-ui.html)
-- **Health Check:** [https://mutantes-21r4.onrender.com/health](https://mutantes-21r4.onrender.com/health)
+- **Swagger UI (Documentación):** [ https://mutantes-thomas-bunader.onrender.com](https://mutantes-thomas-bunader.onrender.com/swagger-ui/index.html)
+- **Health Check:** [ https://mutantes-thomas-bunader.onrender.com ](https://mutantes-thomas-bunader.onrender.com/swagger-ui/index.html)
 
 ---
 
@@ -107,7 +107,7 @@ La aplicación estará disponible en `http://localhost:8080`.
 La API cuenta con documentación interactiva generada con **Swagger UI**.
 
 **Local:** [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)  
-**Nube:** [https://mutantes-21r4.onrender.com/swagger-ui.html](https://mutantes-21r4.onrender.com/swagger-ui.html)
+**Nube:** [https://mutantes-thomas-bunader.onrender.com/swagger-ui/index.html](https://mutantes-thomas-bunader.onrender.com/swagger-ui/index.html)
 
 ### Endpoints Principales
 
